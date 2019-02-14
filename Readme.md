@@ -149,3 +149,5 @@ tmpfs                   /dev/shm                tmpfs   defaults,nodev,nosuid,no
 
 - Khi đã xử lý xong virut thì check bằng một số lệnh như top, "ps -ej" xem có tồn tại process lạ không, trong file crontab còn sinh ra các dòng crond lạ được chèn vào không
 
+------------------------------------------------
+
